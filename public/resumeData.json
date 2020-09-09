@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Diego Pardo",
+    "fullName": "Diego Alejandro Pardo Blacutt",
+    "occupation": "I'm a Software Engineer and ReactJS Developer based in Bolivia, currently looking for a Full-Time work as React Developer.",
+    "image": "Profile_Diego.jpg",
+    "bio": "My name is Diego, I’m a Full Stack ReactJS Developer. I’m an athlete at heart, with a strong passion for helping people, a knack for planning, and a love for coding. One of the richest experiences I had was beating DFSP, a rare skin cancer that affects one in a million people. Now I no longer have Cancer but I have all the things I learned because of it. I’m pursuing a full-time job as React Developer.",
+    "contactmessage": "  .",
+    "email": "dpardoblacutt@gmail.com",
+    "phone": "+591 75 872 744",
+    "address": {
+      "street": "Av. Hugo Ernest Rivera B2",
+      "city": "La Paz",
+      "state": "Bolivia"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1vpnhVdlcp7Ip5NSchvSiFKMkbye776kC/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/diego.pardoblacutt/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/diego-pardo-blacutt/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/parduccinward/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/parduccinward",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "SE",
+    "education": [
+      {
+        "school": "San Pablo Bolivian Catholic University",
+        "degree": "Bachelor Degree in Software Engineering",
+        "description": "July 2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Reactjs",
+        "level": "70%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"
+      },
+      {
+        "name": "Python",
+        "level": "67%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      },
+      {
+        "name": "GIT",
+        "level": "90%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+      },
+      {
+        "name": "Css",
+        "level": "75%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+      },
+      {
+        "name": "Material UI",
+        "level": "60%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_material_design.svg"
+      },
+      {
+        "name": "postgresql",
+        "level": "40%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19 Tracker",
+        "category": "Disease tracker using ReactJS, Firebase, Material UI, Javascript",
+        "image": "covid19-tracker.jpg",
+        "url": "https://covid-19-tracker-9baff.web.app/"
+      },
+      {
+        "title": "Whatsapp Clone",
+        "category": "Whatsapp Clone built with ReactJS",
+        "image": "whatsapp-clone.jpg",
+        "url": "https://whatsapp-clone-1bc29.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Because the people who are crazy enough to think that they can change the world, are the ones who do.",
+        "user": "Steve Jobs"
+      }
+    ]
+  }
+}
